@@ -29,6 +29,9 @@ I help improve software reliability by applying <b>manual, API, performance, and
   Focused on building <b>Robust, Scalable, and Resilient Systems</b><br>
 </p>
 
+🚀 View my live portfolio: [Portfolio](https://v0-tasfia-zaima-portfolio.vercel.app/)
+
+
 ## 🛠️ Tech & Tools
 <!-- Programming & Scripting -->
 <h3 style="background: linear-gradient(90deg, #007ACC, #00BFFF); color: white; padding: 5px 10px; border-radius: 10px; display: inline-block;">💻 Programming & Scripting</h3>
