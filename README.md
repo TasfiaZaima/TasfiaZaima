@@ -46,10 +46,6 @@ I help improve software reliability by applying **manual, API, performance, and 
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TasfiaZaima&show_icons=true&theme=radical&count_private=true&hide_title=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TasfiaZaima&layout=compact&theme=radical)
----
-
 ## 🔗 Connect with Me
 
 * ✉️ Email: [tasfia.zaima000@gmail.com](mailto:tasfia.zaima000@gmail.com)  
