@@ -7,7 +7,7 @@
 </div>
 
 <!-- SHORT BIO -->
-<p align="center"><b>SQA Engineer · Security Researcher · XAI-driven IDS | IIoT Security & Forensics</b></p>
+<p align="center"><b>SQA Engineer · Security Enthusiast · XAI-driven IDS | IIoT Security & Forensics</b></p>
 <div align="center">
 
 <!-- TYPING ANIMATION -->
