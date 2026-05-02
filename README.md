@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1f44,50:1e3c72,100:0d1117&height=200&section=header&text=Tasfia%20Zaima&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=SQA%20Engineer%20|%20Cybersecurity%20Researcher&descAlignY=60&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1f44,50:1e3c72,100:0d1117&height=200&section=header&text=Tasfia%20Zaima&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=SQA%20Engineer%20|%20Cybersecurity%20Enthusiast&descAlignY=60&descSize=18" width="100%" />
 <!--BADGES -->
 <div align="center" style="margin-top:-15px;">
   <img src="https://img.shields.io/badge/📦_Repositories-14-green?style=for-the-badge&logo=github&logoColor=ffffff" alt="Repos"/>
