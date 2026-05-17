@@ -2,7 +2,6 @@
 <!--BADGES -->
 <div align="center" style="margin-top:-15px;">
   <img src="https://img.shields.io/badge/📦_Repositories-14-green?style=for-the-badge&logo=github&logoColor=ffffff" alt="Repos"/>
-  <img src="https://img.shields.io/badge/👥_Followers-2-purple?style=for-the-badge&logo=github&logoColor=ffffff" alt="Followers"/>
   <img src="https://img.shields.io/badge/📅_Years_Active-4+-orange?style=for-the-badge&logo=github&logoColor=ffffff" alt="Years Active"/>
 </div>
 
