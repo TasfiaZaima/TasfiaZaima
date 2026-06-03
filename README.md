@@ -1,11 +1,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1f44,50:1e3c72,100:0d1117&height=200&section=header&text=Tasfia%20Zaima&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=SQA%20Engineer%20|%20Cybersecurity%20Enthusiast&descAlignY=60&descSize=18" width="100%" />
 <!-- SHORT BIO -->
-<p align="center"><b>SQA Engineer · Security Enthusiast · XAI-driven IDS | IIoT Security & Forensics</b></p>
+<p align="center"><b>SQA Engineer · Cyber Security Enthusiast · XAI-driven IDS | IIoT Security & Forensics</b></p>
 <div align="center">
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/TasfiaZaima">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=800&height=45&lines=Hi%2C%20I'm%20Tasfia%20!%0AExploring%20SQA%20and%20Cybersecurity%20Research" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=800&height=45&lines=Hi%2C%20I'm%20Tasfia%20!%0AExploring%20SQA%20and%20Cybersecurity" alt="Typing SVG" />
 </a>
 <p align="center">
 I work at the intersection of <b>Software Quality Assurance, Cybersecurity, and Explainable AI</b>, building secure and interpretable systems for Industrial IoT environments.<br>
